@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">Full-Stack AI Engineer | Building end-to-end web apps powered by AI</h3>
+<h3 align="center">Full-Stack AI Engineer | Building end-to-end web apps powered by ML & Computer Vision</h3>
 
 <p align="center">
   <a href="https://amansinghhh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -68,12 +68,12 @@ An automated attendance system using computer vision and facial recognition for 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amansinghhggg&show_icons=true&theme=radical" alt="Aman's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amansinghhggg&show_icons=true&theme=radical&cache_seconds=86400" alt="Aman's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amansinghhggg&theme=radical" alt="Aman's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amansinghhggg&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amansinghhggg&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---

@@ -153,14 +153,6 @@ Check my portfolio and GitHub for the latest projects — new full-stack + AI ex
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Amansinghhggg&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
-</div>
-
-<br/>
-
 ## 🌐 Let's Connect
 
 <div align="center">

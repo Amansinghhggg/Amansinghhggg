@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Singh</h1>
-<h3 align="center">Full-Stack AI Engineer | Building end-to-end web apps powered by ML & Computer Vision</h3>
+<h3 align="center">Full-Stack AI Engineer | Building end-to-end web apps powered by AI</h3>
 
 <p align="center">
   <a href="https://amansinghhh.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>

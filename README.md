@@ -140,12 +140,17 @@ Check my portfolio and GitHub for the latest projects — new full-stack + AI ex
 
 <div align="center">
 
-<img src="./generated/overview.svg" alt="Aman's GitHub Stats" width="48%"/>
-<img src="./generated/languages.svg" alt="Top Languages" width="48%"/>
+ <img
+    src="https://github-readme-stats.vercel.app/api?username=Amansinghhggg&show_icons=true&theme=tokyonight"
+    width="48%" />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amansinghhggg&layout=compact&theme=tokyonight"
+    width="48%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amansinghhggg&theme=tokyonight&hide_border=true" alt="Aman's GitHub Streak" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Amansinghhggg&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amansinghhggg&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 

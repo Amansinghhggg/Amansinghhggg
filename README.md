@@ -165,34 +165,7 @@ A computer-vision driven attendance system that automates marking attendance for
 
 </div>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=1000" width="80%"/>
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Amansinghhggg&label=Profile%20Views&color=8e2de2&style=for-the-badge" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Amansinghhggg?label=Followers&style=for-the-badge&color=00C896&labelColor=1a1a2e" alt="followers" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amansinghhggg&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=C147E9&icon_color=00C896&text_color=ffffff&cache_seconds=86400" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amansinghhggg&theme=radical&hide_border=true&background=1a1a2e&ring=C147E9&fire=FFB800&currStreakLabel=00C896" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amansinghhggg&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=C147E9&text_color=ffffff&cache_seconds=86400" width="49%" />
-
-<br/><br/>
-
-<sub>⏱️ Stats update automatically — if a card looks slow to load on first open, just refresh; it's cached after that.</sub>
-
-</div>
 
 <br/>
 

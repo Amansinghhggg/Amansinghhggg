@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,fastapi,mongodb,postgres,redis,docker,git,github,aws,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,fastapi,mongodb,postgres,redis,docker,git,github,aws,figma&theme=dark&perline=8" />
 
 </div>
 
